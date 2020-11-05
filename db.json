@@ -1,3 +1,25 @@
 {
-  "items": []
+  "items": [
+    {
+      "id": 1,
+      "name": "banana",
+      "img": "https://cdn.bfm.ru/news/photopreviewextralarge/2019/12/06/banana.jpg",
+      "price": 10,
+      "wholesale": null
+    },
+    {
+      "id": 2,
+      "name": "apple",
+      "img": "https://www.my-vb.com/sites/default/files/styles/image_recette/public/2019-02/Pomme%20verte.jpg?itok=uC70AfIJ",
+      "price": 8,
+      "wholesale": null
+    },
+    {
+      "id": 3,
+      "name": "papaya",
+      "img": "https://post.healthline.com/wp-content/uploads/2020/09/papaya-benefits-732x549-thumbnail-732x549.jpg",
+      "price": 10,
+      "discount": { "count": 3, "sum": 5 }
+    }
+  ]
 }
