@@ -10,7 +10,6 @@
       "month":"июль",
       "annum": 2000
     },
-    "groupId": 1,
     "grant": null,
     "yearOfAdmission": 2017,
     "numberCourse": 4,
@@ -21,6 +20,7 @@
     {
       "id":1,
       "name":"КНТ-217"
+      "studentId":1
     }
    ] 
 }
