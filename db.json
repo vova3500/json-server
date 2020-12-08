@@ -19,7 +19,7 @@
   "groups" : [ 
     {
       "id":1,
-      "name":"КНТ-217"
+      "name":"КНТ-217",
       "studentId":1
     }
    ] 
