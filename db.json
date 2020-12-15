@@ -13,9 +13,9 @@
     "grant": null,
     "yearOfAdmission": 2017,
     "numberCourse": 4,
-    "progress":{}
-    },
-    "groupId": 1
+    "progress":{},
+     "groupId": 1
+    }
   ],
   "groups" : [ 
     {
