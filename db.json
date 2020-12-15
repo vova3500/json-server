@@ -14,13 +14,12 @@
     "yearOfAdmission": 2017,
     "numberCourse": 4,
     "progress":{},
-     "groupId": 1,
     }
   ],
   "groups" : [ 
     {
       "id":1,
-      "name":"КНТ-217",
+      "name":"КНТ-217"
     }
    ] 
 }
