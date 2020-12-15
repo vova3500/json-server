@@ -10,16 +10,15 @@
       "month":"июль",
       "annum": 2000
     },
+    "groupId": 1,
     "grant": null,
     "yearOfAdmission": 2017,
     "numberCourse": 4,
-    "progress":{},
+    "progress":{}
     }
   ],
-  "groups" : [ 
-    {
-      "id":1,
-      "name":"КНТ-217"
-    }
-   ] 
+  "groups":[{
+    "id":1,
+    "name":"КНТ-217"
+  }] 
 }
